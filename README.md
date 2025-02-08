@@ -1,6 +1,6 @@
 # Incremental Rides Automation
 
-https://github.com/Arashkhajooei/Sequencal_Task_Scheduler/blob/main/Diagram.png
+![Pipeline Diagram](https://github.com/Arashkhajooei/Sequencal_Task_Scheduler/blob/main/Diagram.png)
 
 I want add this pictue to the readm if my gjtub repository
 ## Overview
