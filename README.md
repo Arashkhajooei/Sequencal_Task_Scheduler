@@ -2,7 +2,6 @@
 
 ![Pipeline Diagram](https://github.com/Arashkhajooei/Sequencal_Task_Scheduler/blob/main/Diagram.png)
 
-I want add this pictue to the readm if my gjtub repository
 ## Overview
 The **Incremental Rides Automation** pipeline is designed to efficiently process ride data, perform clustering-based customer segmentation, and generate aggregate insights to differentiate between organic and incremental rides. This system leverages **Apache Airflow** to structure a sequence of tasks that ensure smooth data ingestion, transformation, clustering, and aggregation.
 
